@@ -3,4 +3,5 @@ My FIRST repository!
 
 奇偶轉換
 https://www.youtube.com/watch?v=ony539T074w
-![image](https://user-images.githubusercontent.com/95206772/143828462-aa516af6-2cf2-4a2e-abef-c46c41136f7b.png)
+![image](https://user-images.githubusercontent.com/95206772/143829084-1f4fcac5-5732-4acb-9d91-f88985fa213a.png)
+
